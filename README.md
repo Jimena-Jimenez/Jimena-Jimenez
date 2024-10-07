@@ -14,7 +14,7 @@
   <li>💻 Currently, I am working on various university projects.</li>
   <li>🌱 I am passionate about web development, with skills in C++, Java, Python, and JavaScript.</li>
   <li>🎓 I am currently studying Computer Engineering at Fidélitas University.</li>
-  <li>👨🏻‍💻 I have experience with relational databases (bases de datos organizadas en tablas) like MySQL and SQL Server, as well as non-relational databases (bases de datos que almacenan datos de forma flexible) like MongoDB.</li>
+  <li>👨🏻‍💻 I have knowledge of relational databases (databases organized in tables) such as MySQL and SQL Server, as well as non-relational databases (databases that store data in a flexible way) such as MongoDB..</li>
   <li>💬 I enjoy continuous learning and collaborating on open-source projects (proyectos colaborativos y accesibles para cualquier persona).</li>
 </ul>
 
