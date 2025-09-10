@@ -75,10 +75,6 @@
 
 ---
 
-## 🚀 Projects & Portfolio
-- [Cardio Fitness CRUD System](https://github.com/Jimena-Jimenez/CardioFitness) – Full CRUD app using Flask, Python, and SQL Server.  
-- [APAMAN Website](https://github.com/Jimena-Jimenez/AP)
-
 </p>
 
 
